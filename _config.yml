@@ -1,1 +1,3 @@
 theme: jekyll-theme-tactile
+title: Multiple AJAX callback functionality using dunamic content
+description: MAking Asynchronous AJAx request using Jquery and Promises
