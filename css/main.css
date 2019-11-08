@@ -1,3 +1,15 @@
+h4 {
+   font-family: monospace;
+}
+h1, h4 {
+    color: black;
+    text-align: center;  
+    line-height: 1em;
+}
+h1 {
+    font-family: sans-serif;
+}
+
 #dvImages img {
   display: inline-block;
   margin: 10px;
